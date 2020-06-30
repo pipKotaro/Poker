@@ -1,3 +1,4 @@
+//トランプを作成
 package card;
 
 public class Card {
